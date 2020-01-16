@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About
+title: About Kristen Schmidt Health and Wellness
 permalink: /about/
 ---
 
